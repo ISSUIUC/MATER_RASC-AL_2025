@@ -1,0 +1,13 @@
+Payload Name,CH4 Tank 1
+Identifier,14
+Mass (kg),210.33499999999998
+Max Power Consumption (kWe),0.023
+Power Proudction (kWe),0
+Power Storage (kWh),0
+Share Power (T/F),F
+X Dimension (m),2.3000000000000003
+Y Dimension (m),2.3000000000000003
+Z Dimension (m),3.7319999999999998
+Safe Mode Duty (%),5
+Sandby Mode Duty (%),25
+Experiment Mode Duty (%),100

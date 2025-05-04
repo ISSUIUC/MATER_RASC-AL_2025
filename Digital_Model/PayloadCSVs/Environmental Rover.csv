@@ -1,0 +1,13 @@
+Payload Name,Environmental Rover
+Identifier,19
+Mass (kg),379.49999999999994
+Max Power Consumption (kWe),0.12535
+Power Proudction (kWe),0.109
+Power Storage (kWh),0.364
+Share Power (T/F),T
+X Dimension (m),1.9
+Y Dimension (m),1.75
+Z Dimension (m),2.062
+Safe Mode Duty (%),5
+Sandby Mode Duty (%),25
+Experiment Mode Duty (%),100

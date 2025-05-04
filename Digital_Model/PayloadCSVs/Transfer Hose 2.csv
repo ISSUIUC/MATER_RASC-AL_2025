@@ -1,0 +1,13 @@
+Payload Name,Transfer Hose 2
+Identifier,17
+Mass (kg),1494.9999999999998
+Max Power Consumption (kWe),0
+Power Proudction (kWe),0
+Power Storage (kWh),0
+Share Power (T/F),F
+X Dimension (m),2
+Y Dimension (m),2
+Z Dimension (m),1.162
+Safe Mode Duty (%),5
+Sandby Mode Duty (%),25
+Experiment Mode Duty (%),100

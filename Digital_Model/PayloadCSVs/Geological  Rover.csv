@@ -1,0 +1,13 @@
+Payload Name,Geological  Rover
+Identifier,18
+Mass (kg),424.34999999999997
+Max Power Consumption (kWe),0.14029999999999998
+Power Proudction (kWe),0.122
+Power Storage (kWh),0.406
+Share Power (T/F),T
+X Dimension (m),3
+Y Dimension (m),2.3
+Z Dimension (m),2.362
+Safe Mode Duty (%),5
+Sandby Mode Duty (%),25
+Experiment Mode Duty (%),100

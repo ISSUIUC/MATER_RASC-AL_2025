@@ -1,0 +1,13 @@
+Payload Name,Extravehicular Mobility Test
+Identifier,6
+Mass (kg),74.75
+Max Power Consumption (kWe),0.0552
+Power Proudction (kWe),0
+Power Storage (kWh),0
+Share Power (T/F),F
+X Dimension (m),1.5
+Y Dimension (m),1.042
+Z Dimension (m),0.6900000000000001
+Safe Mode Duty (%),5
+Sandby Mode Duty (%),25
+Experiment Mode Duty (%),100

@@ -1,0 +1,13 @@
+Payload Name,Fuel Reactor
+Identifier,10
+Mass (kg),850.9999999999999
+Max Power Consumption (kWe),44.2037
+Power Proudction (kWe),0
+Power Storage (kWh),0
+Share Power (T/F),F
+X Dimension (m),1.6
+Y Dimension (m),1.9
+Z Dimension (m),1.662
+Safe Mode Duty (%),5
+Sandby Mode Duty (%),25
+Experiment Mode Duty (%),100

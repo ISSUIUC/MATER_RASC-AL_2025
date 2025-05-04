@@ -1,0 +1,13 @@
+Payload Name,Rover Docking System
+Identifier,7
+Mass (kg),1492.2975
+Max Power Consumption (kWe),0.11499999999999999
+Power Proudction (kWe),0
+Power Storage (kWh),0
+Share Power (T/F),F
+X Dimension (m),3.52
+Y Dimension (m),2.2
+Z Dimension (m),3.552
+Safe Mode Duty (%),5
+Sandby Mode Duty (%),25
+Experiment Mode Duty (%),100

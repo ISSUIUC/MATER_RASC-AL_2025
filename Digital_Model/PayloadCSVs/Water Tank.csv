@@ -1,0 +1,13 @@
+Payload Name,Water Tank
+Identifier,11
+Mass (kg),17.709999999999997
+Max Power Consumption (kWe),0
+Power Proudction (kWe),0
+Power Storage (kWh),0
+Share Power (T/F),F
+X Dimension (m),1.1
+Y Dimension (m),1.75
+Z Dimension (m),0.552
+Safe Mode Duty (%),5
+Sandby Mode Duty (%),25
+Experiment Mode Duty (%),100

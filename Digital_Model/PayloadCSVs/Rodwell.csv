@@ -1,0 +1,13 @@
+Payload Name,Rodwell
+Identifier,9
+Mass (kg),1150
+Max Power Consumption (kWe),28.749999999999996
+Power Proudction (kWe),0
+Power Storage (kWh),0
+Share Power (T/F),F
+X Dimension (m),2.5
+Y Dimension (m),1.75
+Z Dimension (m),2.262
+Safe Mode Duty (%),5
+Sandby Mode Duty (%),25
+Experiment Mode Duty (%),100

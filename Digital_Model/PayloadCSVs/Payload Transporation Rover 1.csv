@@ -1,0 +1,13 @@
+Payload Name,Payload Transporation Rover 1
+Identifier,2
+Mass (kg),5290
+Max Power Consumption (kWe),1.265
+Power Proudction (kWe),1.1
+Power Storage (kWh),14.88
+Share Power (T/F),T
+X Dimension (m),4.5
+Y Dimension (m),4.26
+Z Dimension (m),2.7
+Safe Mode Duty (%),5
+Sandby Mode Duty (%),25
+Experiment Mode Duty (%),100

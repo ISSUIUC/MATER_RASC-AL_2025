@@ -1,0 +1,13 @@
+Payload Name,Optical Comms
+Identifier,24
+Mass (kg),345
+Max Power Consumption (kWe),2.07
+Power Proudction (kWe),0
+Power Storage (kWh),0
+Share Power (T/F),F
+X Dimension (m),0.86
+Y Dimension (m),0.86
+Z Dimension (m),1.882
+Safe Mode Duty (%),5
+Sandby Mode Duty (%),25
+Experiment Mode Duty (%),100

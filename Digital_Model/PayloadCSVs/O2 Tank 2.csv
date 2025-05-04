@@ -1,0 +1,13 @@
+Payload Name,O2 Tank 2
+Identifier,13
+Mass (kg),304.75
+Max Power Consumption (kWe),0.1035
+Power Proudction (kWe),0
+Power Storage (kWh),0
+Share Power (T/F),F
+X Dimension (m),2.3000000000000003
+Y Dimension (m),2.3000000000000003
+Z Dimension (m),5.462
+Safe Mode Duty (%),5
+Sandby Mode Duty (%),25
+Experiment Mode Duty (%),100

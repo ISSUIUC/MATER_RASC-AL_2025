@@ -1,0 +1,13 @@
+Payload Name,Ingenuity-Class Helicopters 2
+Identifier,27
+Mass (kg),2.1849999999999996
+Max Power Consumption (kWe),0.40953225
+Power Proudction (kWe),0.356115
+Power Storage (kWh),0.014838125
+Share Power (T/F),T
+X Dimension (m),1.31
+Y Dimension (m),1.75
+Z Dimension (m),0.652
+Safe Mode Duty (%),5
+Sandby Mode Duty (%),25
+Experiment Mode Duty (%),100

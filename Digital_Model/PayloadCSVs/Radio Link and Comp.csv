@@ -1,0 +1,13 @@
+Payload Name,Radio Link and Comp
+Identifier,25
+Mass (kg),287.5
+Max Power Consumption (kWe),7.475
+Power Proudction (kWe),0
+Power Storage (kWh),0
+Share Power (T/F),F
+X Dimension (m),2.49
+Y Dimension (m),2.49
+Z Dimension (m),2.552
+Safe Mode Duty (%),5
+Sandby Mode Duty (%),25
+Experiment Mode Duty (%),100

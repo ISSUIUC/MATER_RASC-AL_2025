@@ -1,0 +1,13 @@
+Payload Name,Deep Drilling System
+Identifier,0
+Mass (kg),34.5
+Max Power Consumption (kWe),1.15
+Power Proudction (kWe),0
+Power Storage (kWh),0
+Share Power (T/F),F
+X Dimension (m),1.25
+Y Dimension (m),1.25
+Z Dimension (m),3.162
+Safe Mode Duty (%),5
+Sandby Mode Duty (%),25
+Experiment Mode Duty (%),100

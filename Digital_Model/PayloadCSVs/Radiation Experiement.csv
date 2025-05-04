@@ -1,0 +1,13 @@
+Payload Name,Radiation Experiement
+Identifier,8
+Mass (kg),1380
+Max Power Consumption (kWe),3.8524999999999996
+Power Proudction (kWe),0
+Power Storage (kWh),0
+Share Power (T/F),F
+X Dimension (m),4.1499999999999995
+Y Dimension (m),1.75
+Z Dimension (m),0.652
+Safe Mode Duty (%),5
+Sandby Mode Duty (%),25
+Experiment Mode Duty (%),100

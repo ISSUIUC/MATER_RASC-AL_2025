@@ -1,0 +1,13 @@
+Payload Name,Pressurized Rover
+Identifier,20
+Mass (kg),4485
+Max Power Consumption (kWe),10.64325
+Power Proudction (kWe),9.255
+Power Storage (kWh),246.188
+Share Power (T/F),T
+X Dimension (m),4.5
+Y Dimension (m),4
+Z Dimension (m),3.162
+Safe Mode Duty (%),5
+Sandby Mode Duty (%),25
+Experiment Mode Duty (%),100
