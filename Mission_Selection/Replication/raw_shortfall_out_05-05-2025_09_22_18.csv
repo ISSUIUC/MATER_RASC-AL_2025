@@ -1,0 +1,34 @@
+,Name,Shortfalls,Power,Mass,Total Mass
+,Remote Agent Architecture,"['""65', '83', '86""']",10,1000
+,Teleoperated Rovers,"['""83', '64""']",10,185
+,Virtual Camera,['59'],0.1,50
+,Combustion Integrated Rack (CIR),['10'],2,700
+,perseverance Rover sensors,['18'],0.01,1
+,ATHLETE Rover,['31'],8.37,850
+,Extravehicular mobility unit,['51'],0.048,170.837
+,Electrodynamic dust shield (EDS),['56'],0.004,1
+,Rover docking port,"['""46', '51', '56""']",10,3000
+,Mars Rover (Opportunity),['75'],0.14,1062
+,Wind Sensor,['7'],0.001,10
+,Rad Counter measures,['15'],0,300
+,Rad monitoring,['16'],0.1,500
+,rover payloads,['21'],5,2200
+,Water management,['29'],3,400
+,Prediction Modeling of Cryogenic Fluid Dynamics and Operations,['39'],0.3388,40.5
+,Dust mitigation,['47'],0.004,1
+,Batteries,['57'],0,1
+,MAV Prop,['58'],0,1000
+,Extraction and separation of oxygen from extraterrestrial materials,['68'],9.37,249
+,Health monitoring for systems,['72'],2.5,200
+,Cryogenic liquification,['76'],0.25,300
+,A drill,['104'],1,300
+,Big MOXIE,['107'],1,50
+,Sensor with NPC and APC,"['""24', '26""']",0.055,30
+,Small Fission Power,"['""2', '12', '27', '32', '82""']",-10,1544
+,3D EDL Sensors,"['""20', '24', '25', '137""']",0.055,3.63
+,X-Ray Communication,"['""34', '38""']",0.5,40
+,Autonomous Rover,['9'],10,1025
+,Harsh environment robotics,"['""5', '85""']",1,200
+,Electron Emitting Film,['90'],0,1
+,Rad hard computer,"['""6', '99""']",0.1,400
+Totals,32,8.06,64.946,15814.967,27829.977,seed:,900937
