@@ -1,0 +1,72 @@
+Technology Name,Number of Objective,Power Required (kW),Mass (kg)
+Combustion Integrated Rack (CIR),"41, 43",2,700
+Ultraviolet sensor,35,0.000043,0.14
+Electrodynamic dust shield (EDS),41,0.004,1
+Concrete Fabrication Trailer (ConFab),"41, 43",24.7,4459
+Degredation by Dust study,35,0,0
+Rock Abrasion Tool (RAT),"3, 69",0.011,0.687
+Metal Production,"41, 43",2,10000
+Low Gravity Propellant transfer,41,1.008,6122.6
+TOLRECON conveyer system,"3, 43",0.02,65
+Lance Chariot Dozer,"3, 69",10,907
+VO2 Coating for thermal management,35,0,1
+6 kW laser,35,6,4490.57
+Solid Rocket Booster,41,0,400
+inchworm deep drilling system (IDDS),"3, 69",0.002,3
+inchworm driling system (IEEE) ,"3, 69",0.002,3
+Elastomers used in inflatable technology,35,0,2000
+3D printing vertical structures with space concrete,43,25,2000
+New Electron Beam Gun,35,2.5,1.8
+New Physics,37,20,500
+rover1,1,1,500
+rover 2,2,1,500
+rover 3,4,1,500
+Rover4,6,0.1,900
+rover with sensors,7,1,500
+radiation sensoring,8,0.2,5
+Rover 5,10,0.1,900
+Likely Satellites ,11,1.135,2500
+Rover 6,12,0.2,1025
+Rover 7,13,0.1,900
+Rover 8,14,0.5,310
+Rover 9,15,0.2,1025
+Rover 10,17,0.2,1025
+Rover 11,18,0.2,1025
+Rover 12,19,0.2,1025
+rover to make oxygen,20,0.3,500
+Rover 13,21,0.1,900
+rover with sensors 2,22,1,500
+rover with sensors 3,"23, 66, 67, 68, 72, 73, 74, 75",1,500
+Rover 14,24,0.2,1025
+Rover15,25,0.2,1025
+radiation sensoring 2,26,0.017,10
+plant and microbe monitoring,"27, 38, 39",0.2,100
+rover 16,32,1,500
+NemaFlex (obstacle course for worms),34,0.01,1
+rover  17,40,1,500
+Rover 18,44,0.2,1025
+Rover 19,45,1,1025
+Rover 20,46,1,1025
+rover 21,47,1,500
+rover 22,48,1,500
+experiments with rocks ,49,0.2,10
+Rover 23,50,0.2,1025
+Rover24,51,1,1025
+Rover 25,52,1,1025
+Rover/Detecting seismic activity,53,0.2,360
+Detecting seismic activity,54,0.2,360
+Detecting seismic activity 2,55,0.2,360
+Rover 26,56,0.2,1025
+Rover 27,57,0.7,1025
+Rover 28,58,0.7,1025
+Rover 29,59,0.7,1025
+Insight,"60, 77, 83",5,358
+Geophysics rvoer,"61, 62",0.2,1025
+Atmo rover,63,0.2,1025
+spectroscopy using Super Cam on Perseverance,"64, 81",0.179,10.4
+Rover 30,65,0.2,1025
+Drilling Rover,"75, 80, 84",0.1,2100
+Rover (sample collection),79,0.2,1025
+Mass Spectrometer,82,0.01,5
+Deep Drilling,86,0.25,40
+thinh,16,0.03,6.2

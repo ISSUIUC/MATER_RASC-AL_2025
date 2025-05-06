@@ -1,0 +1,21 @@
+,Name,Objectives,Power,Mass,Total Mass
+,Rock Abrasion Tool (RAT),"['""3', '69""']",0.011,0.687
+,inchworm driling system (IEEE) ,"['""3', '69""']",0.002,3
+,rover 2,['2'],1,500
+,rover 3,['4'],1,500
+,Rover4,['6'],0.1,900
+,rover with sensors,['7'],1,500
+,radiation sensoring,['8'],0.2,5
+,Rover 7,['13'],0.1,900
+,Rover 8,['14'],0.5,310
+,Rover 10,['17'],0.2,1025
+,rover to make oxygen,['20'],0.3,500
+,rover with sensors 2,['22'],1,500
+,radiation sensoring 2,['26'],0.017,10
+,rover 21,['47'],1,500
+,Insight,"['""60', '77', '83""']",5,358
+,Atmo rover,['63'],0.2,1025
+,spectroscopy using Super Cam on Perseverance,"['""64', '81""']",0.179,10.4
+,Drilling Rover,"['""75', '80', '84""']",0.1,2100
+,Mass Spectrometer,['82'],0.01,5
+Totals,19,7.742,11.919,9652.087,11857.101999999999,seed: ,6445774

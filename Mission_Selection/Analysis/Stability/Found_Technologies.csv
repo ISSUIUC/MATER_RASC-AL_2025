@@ -1,0 +1,101 @@
+Technology Name,Number of the Shortfalls Retired,Power Required (kW),Mass (kg)
+Remote Agent Architecture,"65, 83, 86",10,1000
+Risk-aware Mars Rover Operation Tool,59,0.1,100
+Resilient Spacecraft Executive Architecture,59,0.5,200
+Teleoperated Rovers,"83, 64",10,185
+MORIE,64,10.557,1275
+Mars Communication Constellation,"80,38",7.9,7420
+Virtual Camera,59,0.1,50
+Space Based Space Survellience,62,0,1031
+Combustion Integrated Rack (CIR),10,2,700
+Star tracker,14,0.01,5
+perseverance Rover sensors,18,0.01,1
+Large-scale mars landing and decent system ,"22, 43",0,19370
+ATHLETE Rover,31,8.37,850
+Inflatable Re-entry Vehicle Experiment (IRVE) ,"37, 131, 181",35,281
+Extravehicular mobility unit,51,0.048,170.837
+GRAINGER Hab System,"52, 149, 150, 160, 170",15,5000
+Electrodynamic dust shield (EDS),56,0.004,1
+Modular surface hab,109,25,13510
+Mars Rover (Perseverance),75,0.11,1025
+Lunar Terrain Vehicle,61,10,7000
+Rover docking port,"46, 51, 56",10,3000
+Mars Rover (Opportunity),75,0.14,1062
+Demo Vehicles,78,15,4000
+Concrete Fabrication Trailer (ConFab),"92,116, 149, 154, 160, 170",24.7,4459
+Degredation by Dust study,63,0,0
+Rock Abrasion Tool (RAT),"92, 130",0.011,0.687
+Metal Production,"92, 116",2,10000
+Low Gravity Propellant transfer,100,1.008,6122.6
+TOLRECON conveyer system,118,0.02,65
+Regolith Advanced Surface Systmes Operations Robot (RASSOR),"102,  118",6.75,66
+Lance Chariot Dozer,102,10,907
+VO2 Coating for thermal management,114,0,1
+6 kW laser,"123, 135",6,4490.57
+MSL EDL Sky Crane,143,0,992
+Solid Rocket Booster,"143, 163, 180, 187",0,400
+inchworm deep drilling system (IDDS),130,0.002,3
+inchworm driling system (IEEE) ,130,0.002,3
+Elastomers used in inflatable technology,132,0,2000
+3D printing vertical structures with space concrete,"145, 172",25,2000
+New Electron Beam Gun,179,2.5,1.8
+Wind Sensor,7,0.001,10
+Nuclear Electric prop,8,2000,10
+Nucelar thermal prop,13,0,3000
+Rad Counter measures,15,0,300
+Rad monitoring,16,0.1,500
+Storage of cryogens,"17, 158, 164",8.5,1000
+rover payloads,21,5,2200
+Water management,29,3,400
+ Prediction Modeling of Cryogenic Fluid Dynamics and Operations,39,0.3388,40.5
+Dust mitigation,47,0.004,1
+Convective Heat Transfer,53,2,5000
+Batteries,57,0,1
+MAV Prop,58,0,1000
+Cryogenic Fluid Management ,60,0.4,8754
+Conditional Stowage,66,0,200
+ Extraction and separation of oxygen from extraterrestrial materials,68,9.37,249
+Sterilization,70,0,200
+Health monitoring for systems,72,2.5,200
+Would be some sort of gas thing,74,1,500
+Cryogenic liquification,76,0.25,300
+Cryogenic cooling for science instrumation,77,0.018,0.45
+ Produce propellants and mission consumables from extracted in-situ resources,79,80,2200
+Thermal and Vibrational isolation for ultrastable science payloads,88,0,240
+A drill,104,1,300
+ Autonomous robotic sample identification classification collection manipulation verification  and transport,105,0,1000
+Big MOXIE,107,1,50
+Extraction and separation of metals/metalloids from extraterrestrial minerals,110,1.5,50
+A pipe,111,1,500
+O2 CO2 management,112,1,100
+MOXIE,121,300,20
+AEPS unit ,124,13,1000
+TESS adjacent telescope,141,0.53,362
+CONFAB,142,24.7,4459
+Metabolic waste management for habitation,144,0.1,70
+environmental control of habitats,175,15,5000
+PMAD for Martian colony,"12,32,34",0,250
+Sensor with NPC and APC,"24,26",0.055,30
+Small Fission Power,"2, 12, 27, 32, 82",-10,1544
+3D EDL Sensors,"20, 24, 25, 137",0.055,3.63
+X-Ray Communication,"34, 38",0.5,40
+Solar Electric Hall thruster Propulsion System,71,30,1350
+Autonomous Rover,9,10,1025
+Harsh environment robotics,"5, 85",1,200
+Theoretical Quantum sensor,"67, 73",1.2,180
+Aerial robotics,"128, 166",0.2,5
+Various Classes of Electric Hall Thrusters,"122, 126",10,45
+Mars Quadcopter,"48, 128, 155, 165",1,4
+Solar electric propulsion,"36, 126",0,2117
+Humaniod robot thing,"85, 133, 134",3,90
+Electron Emitting Film,90,0,1
+Deep Space Atomic Clock,4,50,16
+12-Kw Hall Thruster Design,"36, 126",12,53
+Ideal DSAC for SWaP with radio,"140,4",0.074,15
+Big Computer,"3, 99, 177",5,3000
+Rad hard computer,"6, 99",0.1,400
+LGWA,"161, 162, 168",0.1,1000
+Canadarm 2x,"5, 139, 148, 153, 159, 166, 171, 174",1.6,3000
+Advanced data acquisition system,136,0.9,250
+Solar power,"2, 12, 32",-5,2919
+ISRU Power,183,-5,5000
